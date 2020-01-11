@@ -14,6 +14,15 @@
 		8340F00E22FD2F2700799C56 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8340F00C22FD2F2700799C56 /* LaunchScreen.storyboard */; };
 		8340F01922FD2F2800799C56 /* Animals_Using_PolymorphismTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8340F01822FD2F2800799C56 /* Animals_Using_PolymorphismTests.swift */; };
 		8340F02422FD2F2800799C56 /* Animals_Using_PolymorphismUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8340F02322FD2F2800799C56 /* Animals_Using_PolymorphismUITests.swift */; };
+		8340F03222FD305A00799C56 /* Cat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8340F03122FD305A00799C56 /* Cat.swift */; };
+		8340F03422FD389100799C56 /* Cheetah.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8340F03322FD389100799C56 /* Cheetah.swift */; };
+		8340F03622FD46C100799C56 /* Tiger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8340F03522FD46C100799C56 /* Tiger.swift */; };
+		8340F03822FD470700799C56 /* Lion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8340F03722FD470700799C56 /* Lion.swift */; };
+		8340F03A22FD47C500799C56 /* Donkey.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8340F03922FD47C500799C56 /* Donkey.swift */; };
+		8340F03C22FD488B00799C56 /* Zebra.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8340F03B22FD488B00799C56 /* Zebra.swift */; };
+		8340F03E22FD48DE00799C56 /* Horse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8340F03D22FD48DE00799C56 /* Horse.swift */; };
+		8340F04022FD4A0F00799C56 /* Dog.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8340F03F22FD4A0F00799C56 /* Dog.swift */; };
+		8340F04222FD4A4900799C56 /* Fox.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8340F04122FD4A4900799C56 /* Fox.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +56,15 @@
 		8340F01F22FD2F2800799C56 /* Animals Using PolymorphismUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Animals Using PolymorphismUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8340F02322FD2F2800799C56 /* Animals_Using_PolymorphismUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animals_Using_PolymorphismUITests.swift; sourceTree = "<group>"; };
 		8340F02522FD2F2800799C56 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8340F03122FD305A00799C56 /* Cat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cat.swift; sourceTree = "<group>"; };
+		8340F03322FD389100799C56 /* Cheetah.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cheetah.swift; sourceTree = "<group>"; };
+		8340F03522FD46C100799C56 /* Tiger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tiger.swift; sourceTree = "<group>"; };
+		8340F03722FD470700799C56 /* Lion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lion.swift; sourceTree = "<group>"; };
+		8340F03922FD47C500799C56 /* Donkey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Donkey.swift; sourceTree = "<group>"; };
+		8340F03B22FD488B00799C56 /* Zebra.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Zebra.swift; sourceTree = "<group>"; };
+		8340F03D22FD48DE00799C56 /* Horse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Horse.swift; sourceTree = "<group>"; };
+		8340F03F22FD4A0F00799C56 /* Dog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dog.swift; sourceTree = "<group>"; };
+		8340F04122FD4A4900799C56 /* Fox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fox.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +121,15 @@
 				8340F00A22FD2F2700799C56 /* Assets.xcassets */,
 				8340F00C22FD2F2700799C56 /* LaunchScreen.storyboard */,
 				8340F00F22FD2F2700799C56 /* Info.plist */,
+				8340F03122FD305A00799C56 /* Cat.swift */,
+				8340F03322FD389100799C56 /* Cheetah.swift */,
+				8340F03522FD46C100799C56 /* Tiger.swift */,
+				8340F03722FD470700799C56 /* Lion.swift */,
+				8340F03922FD47C500799C56 /* Donkey.swift */,
+				8340F03B22FD488B00799C56 /* Zebra.swift */,
+				8340F03D22FD48DE00799C56 /* Horse.swift */,
+				8340F03F22FD4A0F00799C56 /* Dog.swift */,
+				8340F04122FD4A4900799C56 /* Fox.swift */,
 			);
 			path = "Animals Using Polymorphism";
 			sourceTree = "<group>";
@@ -261,6 +288,15 @@
 			files = (
 				8340F00622FD2F2700799C56 /* ViewController.swift in Sources */,
 				8340F00422FD2F2700799C56 /* AppDelegate.swift in Sources */,
+				8340F03C22FD488B00799C56 /* Zebra.swift in Sources */,
+				8340F04222FD4A4900799C56 /* Fox.swift in Sources */,
+				8340F03422FD389100799C56 /* Cheetah.swift in Sources */,
+				8340F03A22FD47C500799C56 /* Donkey.swift in Sources */,
+				8340F03822FD470700799C56 /* Lion.swift in Sources */,
+				8340F03E22FD48DE00799C56 /* Horse.swift in Sources */,
+				8340F03222FD305A00799C56 /* Cat.swift in Sources */,
+				8340F04022FD4A0F00799C56 /* Dog.swift in Sources */,
+				8340F03622FD46C100799C56 /* Tiger.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
